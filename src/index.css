@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&display=swap");
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+* {
+  font-family: "Be Vietnam Pro", sans-serif;
+}
+footer {
+  background-image: url("/src/asset/images/footer.png");
+}
